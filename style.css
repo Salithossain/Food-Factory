@@ -102,15 +102,14 @@ span{
         text-align: center;
         margin: 0px 10px;
 }
-header,footer{
+footer{
     position: absolute;
     width: 100%;
     text-align: center;
 }
-header{
-    height: 15vh;
-}
+
 footer{
     height: 10vh;
+    background-color: black;
     
 }
